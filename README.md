@@ -1,10 +1,4 @@
 ## Olá, pode me chamar de May!
-
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayeufraferreira&count_private=true&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayeufraferreira&layout=compact&theme=radical"/>
-</div>
-
 ## Linguagens e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="mayeufraferreira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
