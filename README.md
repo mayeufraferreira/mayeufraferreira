@@ -9,7 +9,6 @@
 
 ### ⚡ Sobre Mim
 
-Engenheira de Software com **+3 anos de experiência prática** no desenvolvimento, modernização e sustentação de sistemas críticos em produção. Atualmente atuo na evolução de sistemas jurídicos de alta escala na **Starian (ex-Softplan)**, liderando frentes de migração arquitetural (**Java 8 → Java 21**), automação com **IA Generativa (LLMs)**, documentação orientada a especificação (**Spec-Driven Development / AI Harness**) e observabilidade em produção (**Kibana**).
 
 - 🏗️ **Foco em Engenharia & Arquitetura:** Microsserviços orientados a eventos (**Apache Kafka**), **APIs RESTful (API First / OpenAPI)**, **Clean Code, SOLID** e alta disponibilidade.
 - 🏆 **Destaque Recente:** **1º Lugar no Hack Garanhuns Tech 2026** com o desenvolvimento da plataforma RiskTech **Radar Jus** (análise preditiva de risco trabalhista e solvência corporativa/bancária).
